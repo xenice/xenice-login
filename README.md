@@ -5,6 +5,6 @@
 
 ### Screenshots
 
-[https://www.xenice.com/](https://www.xenice.com/)
+[https://www.xenice.com/article/xenice-login](https://www.xenice.com/article/xenice-login)
 
 ![xenice-seo](https://raw.githubusercontent.com/xenice/xenice-post-widgets/master/screenshot.png)
