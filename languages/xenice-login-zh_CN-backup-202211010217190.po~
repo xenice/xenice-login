@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenice Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-01 02:06+0000\n"
+"PO-Revision-Date: 2022-11-01 02:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: xenice-login"
+
+#: templates/xenice-login.php:179
+msgid "Back to home"
+msgstr ""
+
+#. Description of the plugin
+msgid "Beautify default login and add pop-up login"
+msgstr ""
+
+#: Config.php:38
+msgid "Blue"
+msgstr ""
+
+#: templates/xenice-login.php:102 templates/xenice-login.php:125
+#: templates/xenice-login.php:160 templates/modal.php:67
+msgid "Captcha"
+msgstr ""
+
+#: ajax/LoginAjax.php:86
+msgid "Captcha and email do not correspond"
+msgstr ""
+
+#: ajax/LoginAjax.php:82
+msgid "Captcha error"
+msgstr ""
+
+#: templates/xenice-login.php:167
+msgid "Change password"
+msgstr ""
+
+#: templates/xenice-login.php:99 templates/xenice-login.php:157
+#: templates/modal.php:64
+msgid "Confirm password"
+msgstr ""
+
+#: Config.php:37 Config.php:58
+msgid "Default"
+msgstr ""
+
+#: Config.php:50
+msgid "Disable"
+msgstr ""
+
+#: Config.php:47
+msgid "Disable bootstrap library"
+msgstr ""
+
+#: Config.php:33
+msgid "Display Color"
+msgstr ""
+
+#: templates/xenice-login.php:93 templates/modal.php:58
+msgid "Email"
+msgstr ""
+
+#: ajax/LoginAjax.php:220
+msgid "Email does not exist"
+msgstr ""
+
+#: Config.php:75
+msgid "Enable"
+msgstr ""
+
+#: ajax/LoginAjax.php:74 ajax/LoginAjax.php:277
+msgid "Entered passwords differ"
+msgstr ""
+
+#: templates/xenice-login.php:176
+msgid "Error request, please check email for reset password link"
+msgstr ""
+
+#: templates/xenice-login.php:83
+msgid "Forget password ?"
+msgstr ""
+
+#: templates/modal.php:30
+msgid "Forget password?"
+msgstr ""
+
+#: Config.php:29
+msgid "General"
+msgstr ""
+
+#: templates/modal.php:69
+msgid "Get captcha"
+msgstr ""
+
+#: templates/xenice-login.php:132
+msgid "Get New Password"
+msgstr ""
+
+#: Config.php:40
+msgid "Green"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.xenice.com"
+msgstr ""
+
+#: ajax/LoginAjax.php:299
+msgid "Illegal request"
+msgstr ""
+
+#: Config.php:23 templates/xenice-login.php:79 templates/xenice-login.php:112
+#: templates/xenice-login.php:136 templates/xenice-login.php:171
+#: templates/modal.php:12 templates/modal.php:27 templates/modal.php:46
+msgid "Login"
+msgstr ""
+
+#: Config.php:68 Config.php:72
+msgid "Login Modal"
+msgstr ""
+
+#: Config.php:79
+msgid "Modal Width"
+msgstr ""
+
+#: templates/xenice-login.php:154
+msgid "New password"
+msgstr ""
+
+#: templates/xenice-login.php:76 templates/xenice-login.php:96
+#: templates/modal.php:24 templates/modal.php:61
+msgid "Password"
+msgstr ""
+
+#: ajax/LoginAjax.php:78
+msgid "Password length should not be less than 6"
+msgstr ""
+
+#: Config.php:41
+msgid "Pink"
+msgstr ""
+
+#: ajax/LoginAjax.php:70
+msgid "Please enter password"
+msgstr ""
+
+#: ajax/LoginAjax.php:50 ajax/LoginAjax.php:129
+msgid "Please enter username"
+msgstr ""
+
+#: templates/xenice-login.php:116
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: ajax/LoginAjax.php:60 ajax/LoginAjax.php:142
+msgid "Please fill in your email address"
+msgstr ""
+
+#: Config.php:39
+msgid "Red"
+msgstr ""
+
+#: templates/xenice-login.php:84 templates/xenice-login.php:108
+#: templates/xenice-login.php:137 templates/xenice-login.php:172
+#: templates/modal.php:15 templates/modal.php:49 templates/modal.php:73
+msgid "Register"
+msgstr ""
+
+#: ajax/LoginAjax.php:243
+msgid "Reset password"
+msgstr ""
+
+#: Config.php:24
+msgid "Save Chanages"
+msgstr ""
+
+#: templates/xenice-login.php:104
+msgid "Send captcha"
+msgstr ""
+
+#: ajax/LoginAjax.php:251
+msgid "Send mail failed, please try again later"
+msgstr ""
+
+#: ajax/LoginAjax.php:108
+msgid "Server timeout, please try again later"
+msgstr ""
+
+#: Config.php:25
+msgid "Social Login Settings"
+msgstr ""
+
+#: Config.php:55
+msgid "Static library CDN"
+msgstr ""
+
+#: xenice-login.php:286
+msgid "Successfully copied to clipboard"
+msgstr ""
+
+#: xenice-login.php:287
+msgid "The browser does not support link clicks to copy to the clipboard"
+msgstr ""
+
+#: ajax/LoginAjax.php:198 ajax/LoginAjax.php:272
+msgid "The captcha is incorrect"
+msgstr ""
+
+#: ajax/LoginAjax.php:66
+msgid "The email address has been registered"
+msgstr ""
+
+#: ajax/LoginAjax.php:63
+msgid "The email address is incorrect"
+msgstr ""
+
+#: ajax/LoginAjax.php:145
+msgid "The email format is incorrect"
+msgstr ""
+
+#: ajax/LoginAjax.php:56 ajax/LoginAjax.php:133
+msgid "The username has been registered"
+msgstr ""
+
+#: ajax/LoginAjax.php:148
+msgid "This email address has been registered, please change it"
+msgstr ""
+
+#: ajax/LoginAjax.php:53 ajax/LoginAjax.php:131
+msgid "This username contains an invalid character"
+msgstr ""
+
+#: ajax/LoginAjax.php:214
+msgid "User does not set email"
+msgstr ""
+
+#: templates/xenice-login.php:90 templates/modal.php:55
+msgid "Username"
+msgstr ""
+
+#: ajax/LoginAjax.php:127
+msgid "Username at least 6 characters"
+msgstr ""
+
+#: ajax/LoginAjax.php:209
+msgid "Username does not exist"
+msgstr ""
+
+#: templates/xenice-login.php:73 templates/xenice-login.php:122
+#: templates/modal.php:21
+msgid "Username or Email"
+msgstr ""
+
+#. Author of the plugin
+msgid "Xenice"
+msgstr ""
+
+#. Name of the plugin
+#: xenice-login.php:349 xenice-login.php:368 xenice-login.php:368
+msgid "Xenice Login"
+msgstr ""
